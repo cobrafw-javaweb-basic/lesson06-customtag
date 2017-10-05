@@ -14,6 +14,8 @@
 		<div class="content row">
 			<div class="col-12 page-content">
 				<h1 class="page-title">${pageTitle}</h1>
+				<h:hello/>
+				<h:greetings name="Duong Nguyen" dateFormat="dd/MM/yyyy"/>
 				<p>
 					In this lesson, we will work with:
 				</p>
